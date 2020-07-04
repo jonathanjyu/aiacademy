@@ -1,0 +1,2 @@
+# aiacademy
+projects during aiacademy
